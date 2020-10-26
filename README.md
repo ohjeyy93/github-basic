@@ -53,3 +53,5 @@
  ![Test Image 1](https://github.com/ohjeyy93/github-basic/blob/main/gitpull4.png)
  * git pull is basically a svn update. Basically you git fetch first and then merge with new master. 
  * git pull <remote repo>
+
+# [](#header-1)github-basic and making pull request
