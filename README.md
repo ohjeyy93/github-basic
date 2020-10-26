@@ -1,6 +1,6 @@
-# github-basic
+# [](#header-1)github-basic
 
-# git remote
+## [](#header-2)git remote
   -This function allows you to manipulate, view, and create connections to the other repositories. 
   -Real time access is possible with the git remote for repositories. Its like creating link to the repository. 
   -Different repositories can be connected simulataneously
@@ -10,5 +10,5 @@
   -git remote add jehoon http://dev.example.com/jehoon.git
   -Allows individual developers to collbatorate outside of the central repositories
 
-# git fetch
+##[](#header-2) git fetch
 -This command is used for downlaoding commits, files, and references from the remote repositories connected. 
