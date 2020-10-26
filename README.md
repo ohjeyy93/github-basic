@@ -41,8 +41,14 @@
  * force push also works. This will overwrite the history. 
 
 ## [](#header-2)git pull
+ * git pull is used to download content from remote repository which instantly updates the local repositroy. 
+ * This is similar to git fetch plus git merge but in one step. 
 (git fetch concept picture from :https://www.atlassian.com/git/tutorials/syncing/git-pull)
  ![Test Image 1](https://github.com/ohjeyy93/github-basic/blob/main/gitpull1.png)
+ * This image explains downloading changes in the content from A,B,C and creating E. 
  ![Test Image 1](https://github.com/ohjeyy93/github-basic/blob/main/gitpull2.png)
+ * This example is similar as above but with repository H. 
  ![Test Image 1](https://github.com/ohjeyy93/github-basic/blob/main/gitpull3.png)
+ * git Rebase allows to fetch from other modificiations which would be E and F for G. 
  ![Test Image 1](https://github.com/ohjeyy93/github-basic/blob/main/gitpull4.png)
+ * git pull is basically a svn update. Basically you git fetch first and then merge with new master. 
