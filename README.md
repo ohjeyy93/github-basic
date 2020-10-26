@@ -52,3 +52,4 @@
  * git Rebase allows to fetch from other modificiations which would be E and F for G. 
  ![Test Image 1](https://github.com/ohjeyy93/github-basic/blob/main/gitpull4.png)
  * git pull is basically a svn update. Basically you git fetch first and then merge with new master. 
+ * git pull <remote repo>
