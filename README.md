@@ -24,3 +24,10 @@
   ![Test Image 1](https://github.com/ohjeyy93/github-basic/blob/main/github%20fetch%20image.png)
   (git fetch concept picture from :https://www.atlassian.com/git/tutorials/syncing/git-fetch)
   * git fetch is basically primary command to download from a remote repository. It is very important for collaborative work. 
+
+## [](#header-2)git push
+ * git push is useed to upload files from local repository to the remote repository. 
+ * It is quiet the opposite of gitfetch 
+ * Remote branches get configured when gitremote command works. 
+ * git push command: git push <remote> <branch>
+ * git push is common way to upload files to the central repositroy and the modification is shared among collaborators. 
