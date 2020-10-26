@@ -10,5 +10,5 @@
   -git remote add jehoon http://dev.example.com/jehoon.git
   -Allows individual developers to collbatorate outside of the central repositories
 
-##[](#header-2) git fetch
+##[](#header-2)git fetch
 -This command is used for downlaoding commits, files, and references from the remote repositories connected. 
