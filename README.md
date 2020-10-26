@@ -55,3 +55,11 @@
  * git pull <remote repo>
 
 # [](#header-1)github-basic and making pull request
+
+## [](#header-2)git pull request
+ * It is basically a forum to allow feedbacks and give notification. This activities can be tracked. 
+ * Follow up commits can be tracked and discussed. 
+ * There is source repostiory and dstination repository. 
+ * First developer creates a new feature to a targeted branch from their local repo.
+ * The developer send pull request and the other collaborators can reveiw the changes. 
+ * The projector manager could accept or close the pull request. 
