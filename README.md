@@ -63,3 +63,4 @@
  * First developer creates a new feature to a targeted branch from their local repo.
  * The developer send pull request and the other collaborators can reveiw the changes. 
  * The projector manager could accept or close the pull request. 
+ * This allows gitflow workflow for collaboration where many developers can work together and add features to the project.
