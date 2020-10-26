@@ -1,4 +1,4 @@
-# [](#header-1)github-basic
+# [](#header-1)github-basic and syncing for collaboation of developers with SVN (distributed version control)
 
 ## [](#header-2)git remote
   * This function allows you to manipulate, view, and create connections to the other repositories. 
