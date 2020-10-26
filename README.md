@@ -39,3 +39,5 @@
  * git rebase -i origin/<branch>
  * git push origin <branch>
  * force push also works. This will overwrite the history. 
+
+## [](#header-2)git pull
