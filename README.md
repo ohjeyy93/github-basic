@@ -38,3 +38,4 @@
  * git fetch origin <branch>
  * git rebase -i origin/<branch>
  * git push origin <branch>
+ * force push also works. 
