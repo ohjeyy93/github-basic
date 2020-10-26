@@ -75,3 +75,8 @@
   * git merge combines seuqences of commits into one overall history of commits. 
   * Merge will work unless confilct in the changes. 
   * git checkout allows you to navigate the git repository and branches. 
+  * git merge conflict requires navigating and resolving the conflicts to collaborate. When two seperate branches make same edits on the same location of the file we need to identify the conflict using gitlog, gitreset, gitstatus, gitcheckout, and gitreset. 
+  * git log will produce log list of conflicts and commits. 
+  * git check out can be checked for undoing the changes. 
+  * git reset undos the changes to the working directory. 
+
