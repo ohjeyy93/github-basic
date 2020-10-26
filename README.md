@@ -23,3 +23,4 @@
   * git fetch origin command allows to synchronize with the origin
   ![Test Image 1](https://github.com/ohjeyy93/github-basic/blob/main/github%20fetch%20image.png)
   (git fetch concept picture from :https://www.atlassian.com/git/tutorials/syncing/git-fetch)
+  * git fetch is basically primary command to download from a remote repository. It is very important for collaborative work. 
