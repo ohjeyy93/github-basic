@@ -41,3 +41,8 @@
  * force push also works. This will overwrite the history. 
 
 ## [](#header-2)git pull
+(git fetch concept picture from :https://www.atlassian.com/git/tutorials/syncing/git-pull)
+ ![Test Image 1](https://github.com/ohjeyy93/github-basic/blob/main/gitpull1.png)
+ ![Test Image 1](https://github.com/ohjeyy93/github-basic/blob/main/gitpull2.png)
+ ![Test Image 1](https://github.com/ohjeyy93/github-basic/blob/main/gitpull3.png)
+ ![Test Image 1](https://github.com/ohjeyy93/github-basic/blob/main/gitpull4.png)
