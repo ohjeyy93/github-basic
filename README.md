@@ -64,3 +64,14 @@
  * The developer send pull request and the other collaborators can reveiw the changes. 
  * The projector manager could accept or close the pull request. 
  * This allows gitflow workflow for collaboration where many developers can work together and add features to the project.
+ 
+ # [](#header-1)github-basic git branching
+ 
+ ## [](#header-2)branching
+ 
+  * A branch is an independent line of the developement for a project. It is abstract stage where the project can be edited and commited. 
+  * git branch command can manipulate the branch with deletion, creation, and renaming.
+  * new remote branches can be created as git remote add <new remote repo> <url of the repository>
+  * git merge combines seuqences of commits into one overall history of commits. 
+  * Merge will work unless confilct in the changes. 
+  * git checkout allows you to navigate the git repository and branches. 
