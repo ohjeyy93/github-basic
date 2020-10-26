@@ -31,3 +31,5 @@
  * Remote branches get configured when gitremote command works. 
  * git push command: git push <remote> <branch>
  * git push is common way to upload files to the central repositroy and the modification is shared among collaborators. 
+ ![Test Image 1](https://github.com/ohjeyy93/github-basic/blob/main/gitpush.png)
+  (git fetch concept picture from :https://www.atlassian.com/git/tutorials/syncing/git-push)
