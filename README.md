@@ -79,4 +79,20 @@
   * git log will produce log list of conflicts and commits. 
   * git check out can be checked for undoing the changes. 
   * git reset undos the changes to the working directory. 
+  * Types of merges are: implicting merge by rebase, fast-forward merge, squash or merge, without explicit merge, and recursvie git merge.
+  * explicit merge is default where creating new merge commit is done. 
+  * Implicting merge via rebase takes a sequence of commits and applies them on top of the branch. 
+  * Rebase events are usually triggered by rebase-events. 
+  * Squash on merge is done usually without explicit merge. This is interactive rebase where commits from target branch are combined into one commit. In the end the final commit is a singular squashed branch commit. 
+ 
+  # [](#header-1)github-basic comparing work flows 
+  
+  ## [](#header-2)comparing
+  
+   * scale with the team size
+   * undo mistakes and errors with the workflow
+   * Workflow should make things simple to work together. 
+   * The general workflow includes initialize cnetral repository, host the central repository, clone the repositroy, modify, push new commits, manage conflicts, 
+  
+  
 
