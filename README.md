@@ -21,4 +21,4 @@
   * example git ohjeyy93 jehoon Bayesian
   * git checkout allows to check the remote branch that has been just downloaded
   * git fetch origin command allows to synchronize with the origin
-  
+  ![Test Image 1](github fetch image.png)
