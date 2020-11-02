@@ -96,4 +96,15 @@ This repository will help build up git proficiency.
    * The general workflow includes initialize cnetral repository, host the central repository, clone the repositroy, modify, push new commits, manage conflicts, 
   
   
+# [](#header-1)github-advanced examples
+
+## [](#header-2)git revert "commit"
+   * reverts the latest commit
+## [](#header-2)git log
+   * checks the changes that has been made
+## [](#header-2)git reset soft vs hard
+   * keep the changes vs discard the changes (affect the histories)
+## [](#header-2)git stash
+   * This will create temporary commits
+
 
